@@ -1,3 +1,3 @@
-# Simple Starter
+# Ink Spiral    
 
-Simple JS build starter for simple, client-only demos.
+Generative drawing test
