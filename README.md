@@ -1,3 +1,4 @@
 # Ink Spiral    
 
-Generative drawing test
+Draws spiral images based on an input image brightness.
+
